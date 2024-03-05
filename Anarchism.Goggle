@@ -6,3 +6,6 @@
 $discard
 $boost=4,site=raddle.me
 $boost=4,site=theanarchistlibrary.org
+$boost=4,site=crimethinc.com
+$boost=4,site=marxists.org
+$boost=2,site=archive.org

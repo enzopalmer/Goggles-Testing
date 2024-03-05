@@ -1,6 +1,6 @@
 ! name: Anarchism
 ! description: Keep only sites related to anarchism
-! public: true
+! public: false
 ! author: enzopalmer
 
 $boost=10,site=raddle.me

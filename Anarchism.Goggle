@@ -4,5 +4,5 @@
 ! author: enzopalmer
 
 $discard
-$boost=10,site=raddle.me
-$boost=10,site=theanarchistlibrary.org
+$boost=4,site=raddle.me
+$boost=4,site=theanarchistlibrary.org
